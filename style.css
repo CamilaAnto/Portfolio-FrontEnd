@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Montserrat:wght@200;400;600&family=Ramaraja&display=swap');
+
+/*ESTILO DE INICIO*/
+
 *{
     margin: 0;
     padding: 0;
@@ -126,5 +129,7 @@ padding: 10px 20px;
     color: white;
     display: none;
 }
+
+
 
 
